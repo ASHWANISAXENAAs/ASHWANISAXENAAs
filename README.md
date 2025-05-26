@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashwani Kumar
 
-<!--
-**ASHWANISAXENAAs/ASHWANISAXENAAs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **QA Engineer | Manual + Automation | 5 Years Experience**
 
-Here are some ideas to get you started:
+🌱 I’m currently upskilling in **Python automation** and **Chrome extension testing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+- Manual Testing (Web, Mobile, API)
+- Tools: JIRA, TestRail, Postman, Xray
+- Automation: Python (beginner), Selenium (basic)
+- Agile Methodology, Test Case Design, Defect Lifecycle
+
+📁 Recent Projects:
+- ✅ Web & Mobile Testing for Fintech App
+- ✅ Chrome Extension Testing Framework (in progress)
+
+📌 I’m looking to collaborate on:
+- QA Automation scripts
+- Open-source testing projects
+- Bug bounty or UAT testing
+
+🔗 Let’s connect!
+- 🌐 [Portfolio](https://bit.ly/Ashwani_portfolio)
+- 💼 [LinkedIn](https://linkedin.com/in/ashwani-kumar-6aba7b15b)
+- 📧 Email: Ashwaniapex123@gmail.com
